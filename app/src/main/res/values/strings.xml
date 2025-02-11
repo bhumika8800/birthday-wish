@@ -5,4 +5,7 @@
     <string name="enter_your_name">Enter your name :</string>
     <string name="happy_birthday">Happy Birthday</string>
     <string name="birthday_card">birthday card</string>
+    <string name="enter_date">Enter Date</string>
+    <string name="birth_date">Birth Date:</string>
+    <string name="date">Date:</string>
 </resources>

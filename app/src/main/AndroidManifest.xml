@@ -13,7 +13,7 @@
         android:theme="@style/Theme.BirthdayWish"
         tools:targetApi="31">
         <activity
-            android:name=".greetingCard"
+            android:name=".GreetingCard"
             android:exported="false" />
         <activity
             android:name=".MainActivity"
